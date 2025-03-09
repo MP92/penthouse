@@ -12,6 +12,8 @@
     "operator-linebreak": 0,
     "prefer-promise-reject-errors": 0,
     "no-mixed-operators": 0,
-    "indent": 0
+    "indent": 0,
+    "no-var": 0,
+    "array-callback-return": 0
   }
 }
